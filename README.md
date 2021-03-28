@@ -1,2 +1,2 @@
 # znajdz-taniej-open-api
-otwarte repozytorium do obserwowania produktów
+Otwarte repozytorium do obserwowania produktów w serwisie [znajdz-taniej.pl](https://znajdz-taniej.pl/)
